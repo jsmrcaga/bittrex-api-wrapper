@@ -1,0 +1,21 @@
+{
+  "name": "bittrex-api-wrapper",
+  "version": "1.1.0",
+  "description": "A simple wrapper around bittrex api",
+  "main": "bittrex.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "bittrex",
+    "api"
+  ],
+  "author": "Jo Colina",
+  "license": "ISC",
+  "dependencies": {
+    "fishingrod": "^3.7.5"
+  }
+}
